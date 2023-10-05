@@ -3,6 +3,7 @@
         Comentar un bloque de código
 
     Tips:
+        Comando para borrar 
         ⇧ ⌘ K
         Ctrl + Shift + K
 
