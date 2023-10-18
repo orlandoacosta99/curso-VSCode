@@ -27,6 +27,16 @@ function capitalizados() {
     const viudaNegra = 'natalia romanova';
 
 }
+//Primera en mayuscula
+function capitalizados1() {
+
+    const Hulk       = 'brouce banner';
+    const Hawkeye    = 'cinton francis';
+    const Ironman    = 'tony stark';
+    const Spiderman  = 'peter parker';
+    const ViudaNegra = 'natalia romanova';
+
+}
 
 function minusculas() {
 
@@ -37,7 +47,15 @@ function minusculas() {
     const VIUDANEGRA = 'natalia romanova';
 
 }
+function minusculas1() {
 
+    const Hulk       = 'brouce banner';
+    const Hawkeye    = 'cinton francis';
+    const Ironman    = 'tony stark';
+    const Spiderman  = 'peter parker';
+    const Viudanegra = 'natalia romanova';
+
+}
 
 
 // Objetivo final (sin los comentarios)
